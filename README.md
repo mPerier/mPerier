@@ -27,6 +27,8 @@ ImmutablePersonParams mPerier = new ImmutablePersonParams("Marc", "PERIER", fals
 > keyword **unstationary**
  ```javascript
  
+ 
+ 
  let currentLocations = [France.NouvelleAquitaine, France.RhoneAlpes];
  let mostDesiredWorkingLocations = [France, Swiss, England, Spain, Italy];
  
@@ -39,19 +41,19 @@ ImmutablePersonParams mPerier = new ImmutablePersonParams("Marc", "PERIER", fals
 > - :swimmer: Swimming, especially for heart and lung development
 >
 > Information technologies:
-> - :floppy_disk: home computing history, owns and develops on various machines, from Amstrad to IBM
-> - :cd: operating systems knowledge:  real-time OS's, Linux/Unix distros, Android, old-school CLI OS.
+> - :floppy_disk: Home computing history, owning and developing on various machines, from Amstrad to IBM
+> - :cd: operating systems knowledge:  real-time OS's, Linux/Unix distros, Android, old-school CLI OS
 > - :cloud: Web technologies: beginner in static and dynamic web developpement (JEE, Tomcat, SQL databases)
 >
 > Hardware:
-> - :car: Automotive and motorbike restoration projects: from Citroën 2Cv to Ford-Area Jaguar. mechanical and electronical restorations
+> - :car: Automotive and motorbike restoration projects: from Citroën 2Cv to Ford-Area Jaguar. Mechanical and electronical restorations
 > - :fountain: Household appliances restorations: good exercise for fault-analysis techniques!
-> - :iphone: Phone and computers repairs and updates, big love story with old crappy computers
+> - :iphone: Phone and computers repairs and updates: implicated in giving second lifes to unloved old machines.
 
  ## Contact me!
 
 <div style="text-align:center;display:block;">
-  <a href="www.linkedin.com/in/marc-perier-6079b4161/" style="text-align:center;">
+  <a href="https://www.linkedin.com/in/marc-perier-6079b4161/" style="text-align:center;">
            <img alt="Linkedin Logo" src="https://raw.githubusercontent.com/mbirth/contacts-logos/master/images/LinkedIn.png"
            width=30" height="30" style="border:1px solid black;">
   </a>
